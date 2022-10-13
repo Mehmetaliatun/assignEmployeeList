@@ -1,0 +1,11 @@
+.buton {
+  display: flex;
+  justify-content: space-around;
+}
+button {
+  background-color: aqua;
+  border-radius: 0.7rem;
+  width: 10rem;
+  height: 3rem;
+  border: none;
+}
